@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michał
 - 👀 I’m interested in jeść kebab
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning c++ switching from html and css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
