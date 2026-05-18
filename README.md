@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michał
 - 👀 I’m currently studying computer science at Poland
-- 🌱 Right now I'm learning C, C# and C++ languages
+- 🌱 Right now I'm learning C, C++ and mostly C#
 
 <!---
 pilarhz/pilarhz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
